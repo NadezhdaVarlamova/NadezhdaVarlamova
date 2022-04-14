@@ -11,25 +11,27 @@
 ## Мой дипломный проект
 
 ### UI тесты
-<img src="img/logo/GitHub.svg" width="30" height="30"  alt="Github"/> <a target="_blank" href="https://github.com/NadezhdaVarlamova/qa_guru_diplom_ui">Github</a>
+<h2><img src="img/logo/GitHub.svg" width="30" height="30"  alt="Github"/> <a target="_blank" href="https://github.com/NadezhdaVarlamova/qa_guru_diplom_ui">Github</a></h2>
 <br>
-<img src="img/logo/Jenkins.svg" width="30" height="30"  alt="Jenkins"/>
+<h2><img src="img/logo/Jenkins.svg" width="30" height="30"  alt="Jenkins"/> <a target="_blank" href="https://jenkins.autotests.cloud/job/VarlamovaNadezhda_qa_guru_10_diplom_ui/">Jenkins</a></h2>
 <br>
-<img src="img/logo/Allure_TO.svg" width="30" height="30"  alt="Allure_TO"/>
+<h2><img src="img/logo/Allure_TO.svg" width="30" height="30"  alt="Allure_TO"/><a target="_blank" href="https://allure.autotests.cloud/project/1229/dashboards/">Allure_TO</a></h2>
 
 ### API тесты
-<img src="img/logo/GitHub.svg" width="30" height="30"  alt="Github"/> <a target="_blank" href="https://github.com/NadezhdaVarlamova/qa_guru_diplom_api">Github</a>
+<h2><img src="img/logo/GitHub.svg" width="30" height="30"  alt="Github"/> <a target="_blank" href="https://github.com/NadezhdaVarlamova/qa_guru_diplom_api">Github</a>
+</h2>
 <br>
-<img src="img/logo/Jenkins.svg" width="30" height="30"  alt="Jenkins"/>
+<h2><img src="img/logo/Jenkins.svg" width="30" height="30"  alt="Jenkins"/> <a target="_blank" href="https://jenkins.autotests.cloud/job/VarlamovaNadezhda_qa_guru_10_diplom_api/">Jenkins</a></h2>
 <br>
-<img src="img/logo/Allure_TO.svg" width="30" height="30"  alt="Allure_TO"/>
+<h2><img src="img/logo/Allure_TO.svg" width="30" height="30"  alt="Allure_TO"/><a target="_blank" href="https://allure.autotests.cloud/project/1229/dashboards/">Allure_TO</a></h2>
 
 ### Mobile тесты
-<img src="img/logo/GitHub.svg" width="30" height="30"  alt="Github"/> <a target="_blank" href="https://github.com/NadezhdaVarlamova/qa_guru_diplom_mobile">Github</a>
+<h2><img src="img/logo/GitHub.svg" width="30" height="30"  alt="Github"/> <a target="_blank" href="https://github.com/NadezhdaVarlamova/qa_guru_diplom_mobile">Github</a>
+</h2>
 <br>
-<img src="img/logo/Jenkins.svg" width="30" height="30"  alt="Jenkins"/>
+<h2><img src="img/logo/Jenkins.svg" width="30" height="30"  alt="Jenkins"/> <a target="_blank" href="https://jenkins.autotests.cloud/job/VarlamovaNadezhda_qa_guru_10_diplom_mobile/">Jenkins</a></h2>
 <br>
-<img src="img/logo/Allure_TO.svg" width="30" height="30"  alt="Allure_TO"/>
+<h2><img src="img/logo/Allure_TO.svg" width="30" height="30"  alt="Allure_TO"/><a target="_blank" href="https://allure.autotests.cloud/project/1229/dashboards/">Allure_TO</a></h2>
 
 <!--
 **NadezhdaVarlamova/NadezhdaVarlamova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
