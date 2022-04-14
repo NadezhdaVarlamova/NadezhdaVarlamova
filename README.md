@@ -4,7 +4,7 @@
 <br>
 <img src="img/logo/Девиз.png" width="438" height="85"  alt="Девиз"/>
 
-🌱 Я прошла курс по автоматизированному тестированию в <a target="_blank" href="https://qa.guru/">qa.guru</a>
+🌱 Прошла курс по автоматизированному тестированию в <a target="_blank" href="https://qa.guru/">qa.guru</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadezhdaVarlamova)](https://github.com/anuraghazra/github-readme-stats)
 
